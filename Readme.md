@@ -2,7 +2,7 @@
 
 <img src="client/public/beacon..png" alt="Beacon Banner" width="100%"/>
 
-# Beacon
+<!-- # Beacon -->
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
