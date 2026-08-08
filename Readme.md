@@ -304,5 +304,3 @@ Beacon was developed by:
 * **Denzil Deepak**
 * **Sahil**
 * **Duke**
-
-For a full list of the creators and their specific contributions to this project, please see the [CONTRIBUTORS.md](./CONTRIBUTORS.md) file.
