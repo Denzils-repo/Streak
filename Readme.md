@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="client/public/beacon..png" alt="Beacon Logo" width="200"/>
+<img src="client/public/beacon..png" alt="Beacon Banner" width="100%"/>
 
 # Beacon
 
