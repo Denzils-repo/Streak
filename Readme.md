@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="client/public/beacon..png" alt="Beacon Logo" width="200"/>
+
 # Beacon
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
